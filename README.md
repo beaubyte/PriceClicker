@@ -1,6 +1,6 @@
 # PriceClicker
 
-PriceClicker is a Java program built with the JavaFX framework. It was built as a CS project in October of 2024. It has a basic progression system, where you continue to click a burger and eventually can unlock things that will click for you, and items that will improve the value of each click you do. It can also write and load save data to a file.
+PriceClicker is a Java program built with the JavaFX framework. It was built as a CS project in December of 2024. It has a basic progression system, where you continue to click a burger and eventually can unlock things that will click for you, and items that will improve the value of each click you do. It can also write and load save data to a file.
 
 ### Dependencies
 - `openjdk-11-jdk`
